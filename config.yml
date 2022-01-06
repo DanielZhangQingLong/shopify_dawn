@@ -1,0 +1,6 @@
+development:
+  password: shptka_d0e88722f37b3306877f1d24bd795154
+  theme_id: "128339247270"
+  store: devhytoscope.myshopify.com
+ignore_files:
+  - config/settings_data.json
